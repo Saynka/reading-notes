@@ -21,9 +21,8 @@ Reading notes for Code Fellows
  
  
  
-![GitHub Logo](/images/logo.png)
+
   
- 
  
 https://github.com/Saynka
 
