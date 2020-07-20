@@ -17,4 +17,7 @@ Reading notes for Code Fellows
   ![GitHub Logo](/images/logo.png)
   
  
- https://github.com/Saynka
+ 
+https://github.com/Saynka
+
+https://saynka.github.io/reading-notes/.
