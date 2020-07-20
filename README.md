@@ -18,7 +18,10 @@ Reading notes for Code Fellows
   2. Re-reading to exspose yourself to this new language you have 6 months to learn.
   3. Dont forget to go outside. 
   
-  ![GitHub Logo](/images/logo.png)
+ 
+ 
+ 
+![GitHub Logo](/images/logo.png)
   
  
  
