@@ -18,10 +18,8 @@ Reading notes for Code Fellows
   3. Dont forget to go outside. 
   
   
-  Hi im kale 
- 
- 
- 
+
+  
 
   
  
