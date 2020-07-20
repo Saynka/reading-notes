@@ -11,13 +11,14 @@ Reading notes for Code Fellows
 ### Three reminders 
 
 
-**In _My_ Own Words**
+* **In _My_ Own Words**
 
-1. Tips for myself
   1. Learning the art of 1's and 0's is obviouly gonna be challenging but im excited.
   2. Re-reading to exspose yourself to this new language you have 6 months to learn.
   3. Dont forget to go outside. 
   
+  
+  Hi im kale 
  
  
  
