@@ -15,3 +15,6 @@ Reading notes for Code Fellows
   3. Dont forget to go outside. 
   
   ![GitHub Logo](/images/logo.png)
+  
+ 
+ https://github.com/Saynka
