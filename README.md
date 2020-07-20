@@ -1,14 +1,14 @@
 # reading-notes
 Reading notes for Code Fellows
 
-##Growth Mindset
+## Growth Mindset
  
  
  **In My Own Words**
  
  I believe Growth mindset is the ability to stay humble. There is to many people who cant stop and look at themselfs these days or have the courage to admit they need help or dont know the best solution to a problem. Working together to achive a common goal and learning how people interact and move forword as a team and as a whole. I think what draws me to this industry in general is that people seem to write prograhms and add ons and apps just cuz they see it needs done or something need tweaked. Of course learning anything for the first time is hard but also fun.
  
-##Three reminders 
+### Three reminders 
 
 
 **In _My_ Own Words**
