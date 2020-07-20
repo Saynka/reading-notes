@@ -26,3 +26,6 @@ Reading notes for Code Fellows
 https://github.com/Saynka
 
 https://saynka.github.io/reading-notes/.
+
+
+![Lion](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c86c729a-2ae0-4bbb-b4cd-6454fd70771c/d93h9lf-a8a7b55e-8120-430e-8a02-01f45106b0bd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzg2YzcyOWEtMmFlMC00YmJiLWI0Y2QtNjQ1NGZkNzA3NzFjXC9kOTNoOWxmLWE4YTdiNTVlLTgxMjAtNDMwZS04YTAyLTAxZjQ1MTA2YjBiZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Pgau1Odib_gTM4tS06JD6edYZA_A112bI8rd-P6kW1w)
