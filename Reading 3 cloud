@@ -1,0 +1,14 @@
+# Reading notes for terminal back and fourth shinangines 
+
+so if i was expaling this to someone who has no idea whats going on i would say this has something to do with how cloud systesm work but in this case there is no automation.
+you are pulling things back and forth to work on them and no auto saves. so dont forget to save (control-S) 
+
+cd- change directory 
+**git push origin master**
+
+
+
+
+<https://overapi.com/linux> this on being obvioulsy something you should start to commit to memory 
+
+<https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1>
