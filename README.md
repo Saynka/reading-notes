@@ -26,7 +26,7 @@ Reading notes for Code Fellows
 * [6-java](6-java.md)
 * [6b-computerworks](6b-computerworks.md)
 * [7-javascript](7-javascript.md)
-* []()
+* [8-operationloops](8-operationloops.md)
 * []()
 * []()
 
