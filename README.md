@@ -16,7 +16,8 @@ Reading notes for Code Fellows
   1. Learning the art of 1's and 0's is obviouly gonna be challenging but im excited.
   2. Re-reading to exspose yourself to this new language you have 6 months to learn.
   3. Dont forget to go outside. 
-  
+
+ **Code 102 Reading Notes**
   
 * [1-markdown](1-markdown.md)
 * [2-computer](2-computer.md)
@@ -27,10 +28,25 @@ Reading notes for Code Fellows
 * [6b-computerworks](6b-computerworks.md)
 * [7-javascript](7-javascript.md)
 * [8-operationloops](8-operationloops.md)
+
+#### Code 201 Reading Notes
+
+* [0-outlines](class-01.md)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 * []()
 
-  
  
 https://github.com/Saynka
 
