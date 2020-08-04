@@ -32,7 +32,7 @@ Reading notes for Code Fellows
 #### Code 201 Reading Notes
 
 * [0-outlines](class-01.md)
-* []()
+* [1-html-css-java](class-02.md)
 * []()
 * []()
 * []()

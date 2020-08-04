@@ -1,7 +1,7 @@
 * basics of html and css
 
 Html foundation
-css the the paint brush 
+css the the paint brush
 
 loops and decision notes
 
