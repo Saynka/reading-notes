@@ -39,3 +39,4 @@ clone a repo
 this reading is basic structure of how html is set up 
 as well as how to do basic css structure how how it interact with things
 
+
