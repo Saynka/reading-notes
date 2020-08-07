@@ -39,3 +39,12 @@ best idea i got on this
 
 cooking recipe and learnig how to do the recipe effeciently to get to end result
 aka the picture in the cook book lol
+
+Super important dont loose this!
+
+functions!
+you define the function 
+you use those kinda like the a button
+everytime you push a does a things
+you also define what a means to to the function
+
