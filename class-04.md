@@ -17,6 +17,25 @@ in line level elements
 
 ## Read 4 notes
 chapter four 
+
+ href tags 
+ relative link type 
+
+same
+ example.html
+child
+ examp/example.html
+grandchild
+exam/examp/example.html
+parent
+../example.html
+grandparent 
+../../example.html
+
+links are created useing < a > links
+href
+you can use the id attributes to targed elements within a page that can be linked to 
+
 goes over the diffrent kinds of link you can use on your website and what the diffrent version of them do 
 and where to put them if you are gonna use them and the best kind for the right sisutation
 * writing links 
