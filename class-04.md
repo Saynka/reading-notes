@@ -41,8 +41,34 @@ and where to put them if you are gonna use them and the best kind for the right 
 * writing links 
   pg.77
 
+types of links 
+< a > links which has a attribute called href  the value of href is the attribute you want people to go to when they click the link
+< link > specifies relationships between the current document and an external resource. This element is most commonly used to link to stylesheets, but is also used to establish site icons both "favicon" style icons and icons for the home screen and apps on mobile devices among other things.
+
+
+
 chapter 15. 
 THIS is h ow to use css to make it more like your paint brush and i was actualyl lookingh for this online as i opened up to this...
+
+Block-level elements start a new line and act as a main building block of any layout
+< h1
+  p
+  ul
+  li
+
+if one block-level element sits inside another block-level element then the outer box is known as a containing or parent element
+
+in-line elements 
+< img
+  b
+  i
+
+
+relative positioning-move an element in a relation to whwere it would have been in normal flow
+absolute positioning -the box is taken out of normal flow and no longer aff3ects the position opf the other elements
+fixed positioning- is a type of absolute positioning that requires the position property to have a calue of fixed 
+floating positioning-allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible
+
 
 
 deep and lots of layers 
