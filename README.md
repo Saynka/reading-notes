@@ -42,8 +42,8 @@ Reading notes for Code Fellows
 * [8-Forms](class-09.md)
 * [9-Debugging](class-10.md)
 * [10-Audio, VIdeo, Images](class-11.md)
-* [11](class-12.md)
-* [12](class-13.md)
+* [11-chart.js, canvas ](class-12.md)
+* [12-Storage](class-13.md)
 * [13](class-14.md)
 * [14](class-15.md)
 
