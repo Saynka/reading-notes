@@ -44,8 +44,8 @@ Reading notes for Code Fellows
 * [10-Audio, VIdeo, Images](class-11.md)
 * [11-chart.js, canvas ](class-12.md)
 * [12-Storage](class-13.md)
-* [13](class-14.md)
-* [14](class-15.md)
+* [13-css tips and tricks](class-14.md)
+* [14-Team building](class-15.md)
 
  
 https://github.com/Saynka
