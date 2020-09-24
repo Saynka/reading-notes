@@ -17,7 +17,7 @@ Reading notes for Code Fellows
   2. Re-reading to exspose yourself to this new language you have 6 months to learn.
   3. Dont forget to go outside. 
 
- **Code 102 Reading Notes**
+* **Code 102 - Intro to Software Development**
   
 * [1-markdown](1-markdown.md)
 * [2-computer](2-computer.md)
@@ -29,7 +29,7 @@ Reading notes for Code Fellows
 * [7-javascript](7-javascript.md)
 * [8-operationloops](8-operationloops.md)
 
-#### Code 201 Reading Notes
+* **Code 201 - Foundations of Software Development**
 
 * [0-outlines](class-01.md)
 * [1-html-css-java](class-02.md)
@@ -42,10 +42,22 @@ Reading notes for Code Fellows
 * [8-Forms](class-09.md)
 * [9-Debugging](class-10.md)
 * [10-Audio, VIdeo, Images](class-11.md)
-* [11-chart.js, canvas ](class-12.md)
+* [11-chart.js, canvas](class-12.md)
 * [12-Storage](class-13.md)
 * [13-css tips and tricks](class-14.md)
 * [14-Team building](class-15.md)
+
+* **Code 301- Intermediate Software Development**
+
+* [1-SMACSS and Responsive Web Design]()
+* [2-jQuery, Events, and The DOM]()
+* [3-Flexbox and Templating]()
+* [4-Responsive Web Design and Regular Expressions]()
+* [5-Heroku Deployment]()
+
+* **Code 401 - Advanced Software Development**
+
+
 
  
 https://github.com/Saynka
