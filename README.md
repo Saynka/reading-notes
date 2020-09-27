@@ -17,37 +17,37 @@ Reading notes for Code Fellows
   2. Re-reading to exspose yourself to this new language you have 6 months to learn.
   3. Dont forget to go outside. 
 
-* **Code 102 - Intro to Software Development**
+#### Code 102 - Intro to Software Development
   
-* [1-markdown](1-markdown.md)
-* [2-computer](2-computer.md)
-* [3-could](3-computer.md)
-* [4-html](4-html.md)
-* [5-css](5-css.md)
-* [6-java](6-java.md)
-* [6b-computerworks](6b-computerworks.md)
-* [7-javascript](7-javascript.md)
-* [8-operationloops](8-operationloops.md)
+* [1-markdown](102/1-markdown.md)
+* [2-computer](102/2-computer.md)
+* [3-could](102/3-computer.md)
+* [4-html](102/4-html.md)
+* [5-css](102/5-css.md)
+* [6-java](102/6-java.md)
+* [6b-computerworks](102/6b-computerworks.md)
+* [7-javascript](102/7-javascript.md)
+* [8-operationloops](102/8-operationloops.md)
 
-* **Code 201 - Foundations of Software Development**
+##### Code 201 - Foundations of Software Development
 
-* [0-outlines](class-01.md)
-* [1-html-css-java](class-02.md)
-* [2-basic html set up](class-03.md)
-* [3-Link types](class-04.md)
-* [4-Html-css-colortxt](class-05.md)
-* [5-Objects](class-06.md)
-* [6-tables-functions-methods-objects](class-07.md)
-* [7-CSS again](class-08.md)
-* [8-Forms](class-09.md)
-* [9-Debugging](class-10.md)
-* [10-Audio, VIdeo, Images](class-11.md)
-* [11-chart.js, canvas](class-12.md)
-* [12-Storage](class-13.md)
-* [13-css tips and tricks](class-14.md)
-* [14-Team building](class-15.md)
+* [0-outlines](201/class-01.md)
+* [1-html-css-java](201/class-02.md)
+* [2-basic html set up](201/class-03.md)
+* [3-Link types](201/class-04.md)
+* [4-Html-css-colortxt](201/class-05.md)
+* [5-Objects](201/class-06.md)
+* [6-tables-functions-methods-objects](201/class-07.md)
+* [7-CSS again](c201/lass-08.md)
+* [8-Forms](201/class-09.md)
+* [9-Debugging](201/class-10.md)
+* [10-Audio, VIdeo, Images](201/class-11.md)
+* [11-chart.js, canvas](201/class-12.md)
+* [12-Storage](201/lass-13.md)
+* [13-css tips and tricks](201/class-14.md)
+* [14-Team building](201/class-15.md)
 
-* **Code 301- Intermediate Software Development**
+###### Code 301- Intermediate Software Development
 
 * [1-SMACSS and Responsive Web Design]()
 * [2-jQuery, Events, and The DOM]()
@@ -55,7 +55,7 @@ Reading notes for Code Fellows
 * [4-Responsive Web Design and Regular Expressions]()
 * [5-Heroku Deployment]()
 
-* **Code 401 - Advanced Software Development**
+###### Code 401 - Advanced Software Development*
 
 
 
