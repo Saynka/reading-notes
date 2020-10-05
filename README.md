@@ -49,9 +49,9 @@ Reading notes for Code Fellows
 
 ## Code 301- Intermediate Software Development
 
-* [1-SMACSS and Responsive Web Design]()
-* [2-jQuery, Events, and The DOM]()
-* [3-Flexbox and Templating]()
+* [1-SMACSS and Responsive Web Design](301/read1.md)
+* [2-jQuery, Events, and The DOM](301/read2.md)
+* [3-Flexbox and Templating](301/read3.md)
 * [4-Responsive Web Design and Regular Expressions]()
 * [5-Heroku Deployment]()
 
