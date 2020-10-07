@@ -52,7 +52,7 @@ Reading notes for Code Fellows
 * [1-SMACSS and Responsive Web Design](301/read1.md)
 * [2-jQuery, Events, and The DOM](301/read2.md)
 * [3-Flexbox and Templating](301/read3.md)
-* [4-Responsive Web Design and Regular Expressions]()
+* [4-Responsive Web Design and Regular Expressions](301/read4.md)
 * [5-Heroku Deployment]()
 
 ## Code 401 - Advanced Software Development
