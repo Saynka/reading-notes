@@ -33,12 +33,12 @@
 ## css grid layouts 
 
 
-https://grid-cats.glitch.me/ — Demo
-https://glitch.com/edit/#!/grid-cats — Code
+* https://grid-cats.glitch.me/ — Demo
+* https://glitch.com/edit/#!/grid-cats — Code
 
-https://card-layout.glitch.me/ — Example
-https://glitch.com/edit/#!/card-layout — Code
+* https://card-layout.glitch.me/ — Example
+* https://glitch.com/edit/#!/card-layout — Code
 
-https://grid-grail.glitch.me/ — Example
-https://glitch.com/edit/#!/grid-grail — Code
+* https://grid-grail.glitch.me/ — Example
+* https://glitch.com/edit/#!/grid-grail — Code
 
