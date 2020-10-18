@@ -54,3 +54,6 @@ Yet saying this, not everyone is going to be building the next Trello or the nex
 For example it can be used as a scripting language to automate repetitive or error prone tasks on your PC. It can also be used to write your own command line tool, such as this Yeoman-Style generator to scaffold out new projects.
 
 Node.js can also can be used to build cross-platform desktop apps and even to create your own robots. What’s not to love?
+
+https://www.sitepoint.com/an-introduction-to-node-js/
+
