@@ -53,7 +53,15 @@ Reading notes for Code Fellows
 * [2-jQuery, Events, and The DOM](301/read2.md)
 * [3-Flexbox and Templating](301/read3.md)
 * [4-Responsive Web Design and Regular Expressions](301/read4.md)
-* [5-Heroku Deployment]()
+* [5-Heroku Deployment](301/read5.md)
+* [6-Node, Express, and API's](301/read6.md)
+* [7-API's continued](301/read7.md)
+* [8-SQL](301/read8.md)
+* [9-Refactoring](301/read9.md)
+* [10- The Call Stack and Debugging](301/read10.md)
+* []()
+* []()
+* []()
 
 ## Code 401 - Advanced Software Development
 
