@@ -59,9 +59,9 @@ Reading notes for Code Fellows
 * [8-SQL](301/read8.md)
 * [9-Refactoring](301/read9.md)
 * [10- The Call Stack and Debugging](301/read10.md)
-* []()
-* []()
-* []()
+* [Google API Documentation](301/read11.md)
+* [Ejs Partials](301/read12.md)
+* [Sending form data](301/read13.md)
 
 ## Code 401 - Advanced Software Development
 
