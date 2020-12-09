@@ -65,8 +65,8 @@ Reading notes for Code Fellows
 
 ## Code 401 - Advanced Software Development
 
-* [1-](401/read1.md)
-* [2-](401/.md)
+* [1-Pain vs. Suffering](401/read1.md)
+* [2-In Tests We Trust](401/read2.md)
 * [3-](401/.md)
 * [4-](401/.md)
 * [5-](401/.md)
