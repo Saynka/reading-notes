@@ -67,7 +67,7 @@ Reading notes for Code Fellows
 
 * [1-Pain vs. Suffering](401/read1.md)
 * [2-In Tests We Trust](401/read2.md)
-* [3-](401/.md)
+* [3-FileIO & Exceptions](401/read3.md.md)
 * [4-](401/.md)
 * [5-](401/.md)
 * [6-](401/.md)
