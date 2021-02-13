@@ -65,10 +65,14 @@ Reading notes for Code Fellows
 
 ## Code 401 - Advanced Software Development
 
+### Pre-Work
+
+* []()
+
 * [1-Pain vs. Suffering](401/read1.md)
 * [2-In Tests We Trust](401/read2.md)
 * [3-FileIO & Exceptions](401/read3.md)
-* [4-](401/read4.md)
+* [4-Classes and Objects](401/read4.md)
 * [5-](401/.md)
 * [6-](401/.md)
 * [7-](401/.md)
@@ -83,7 +87,23 @@ Reading notes for Code Fellows
 * [16-](401/.md)
 * [17-](401/.md)
 
- 
+## Personal Readings
+
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+## Python
+
+* [1-Pain vs. Suffering](python/read1.md)
+* [2-In Tests We Trust](python/read2.md)
+* [3-FileIO & Exceptions](python/read3.md)
+* [4-Classes and Objects](python/read4.md)
+
 https://github.com/Saynka
 
 https://saynka.github.io/reading-notes/.
