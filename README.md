@@ -67,12 +67,17 @@ Reading notes for Code Fellows
 
 ### Pre-Work
 
-* []()
+* [Solving problems](javascript/preread1.md)
+* [$1000 dollers an hour](javascript/preread2.md)
+* [How to think like a programmer](javascript/preread3.md)
+* [5 why's](javascript/preread4.md)
 
-* [1-Pain vs. Suffering](401/read1.md)
-* [2-In Tests We Trust](401/read2.md)
-* [3-FileIO & Exceptions](401/read3.md)
-* [4-Classes and Objects](401/read4.md)
+### Main-Course
+
+* [1-](401/.md)
+* [2-](401/.md)
+* [3-](401/.md)
+* [4-](401/.md)
 * [5-](401/.md)
 * [6-](401/.md)
 * [7-](401/.md)
