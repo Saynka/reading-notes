@@ -78,7 +78,7 @@ Reading notes for Code Fellows
 * [2-Express](401/read2.md)
 * [3-Express REST API](401/read3.md)
 * [4-Data Modeling](401/read4.md)
-* [5-](401/.md)
+* [5-Linked Lists](401/read5.md)
 * [6-](401/.md)
 * [7-](401/.md)
 * [8-](401/.md)
