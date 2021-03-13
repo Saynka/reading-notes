@@ -79,7 +79,7 @@ I believe Growth mindset is the ability to stay humble. There is to many people 
 - [4-Data Modeling](401/read4.md)
 - [5-Linked Lists](401/read5.md)
 - [6-Authentication](401/read6.md)
-- [7-](401/.md)
+- [7-Bearer Authorization](401/read7.md)
 - [8-](401/.md)
 - [9-](401/.md)
 - [10-](401/.md)
