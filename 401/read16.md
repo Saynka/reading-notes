@@ -29,5 +29,7 @@
 ## Vocabulary
 
 - Server - is a piece of computer hardware or software that provides functionality for other programs or devices, called "clients".
+
 - Pub/Sub - In software architecture, publish–subscribe is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers,
+
 - WRRC - Web Request Response Cycle, that is the cycle of sending request objects to an API and receiving a payload in the response object

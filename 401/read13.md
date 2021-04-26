@@ -35,12 +35,21 @@
 ## Vocabulary
 
 - Socket - a software structure within a network node of a computer network that serves as an endpoint for sending and receiving data across the network. The structure and properties of a socket are defined by an application programming interface for the networking architecture.
+
 - Web Socket - protocol enables interaction between a web browser (or other client application) and a web server with lower overhead
+
 - Socket.io - is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers.
+
 - Client - is a computer or a program that, as part of its operation, relies on sending a request to another program or a computer hardware or software that accesses a service made available by a server (which may or may not be located on another computer).
+
 - Server - is a piece of computer hardware or software that provides functionality for other programs or devices, called "clients". This architecture is called the client–server model.
+
 - OSI Model - is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
+
 - TCP Model - The Internet protocol suite is the conceptual model and set of communications protocols used in the Internet and similar computer networks. It is commonly known as TCP/IP because the foundational protocols in the suite are the Transmission Control Protocol and the Internet
+
 - TCP - is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol. Therefore, the entire suite is commonly referred to as TCP/IP.
+
 - UDP - is a communications protocol that is primarily used for establishing low-latency and loss-tolerating connections between applications on the internet. It speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party.
+
 - Packets - is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data; the latter is also known as the payload. Control information provides data for delivering the payload

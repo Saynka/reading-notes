@@ -88,8 +88,9 @@ I believe Growth mindset is the ability to stay humble. There is to many people 
 - [13-Event Driven Architecture](401/read14.md)
 - [14-Trees](401/read15.md)
 - [15-AWS: Cloud Servers](401/read16.md)
-- [16-](401/.md)
-- [17-](401/.md)
+- [16-AWS: S3 and Lambda](401/read17.md)
+- [17-AWS: API, Dynamo and Lambda](401/read18.md)
+- [18-AWS: Events](401/read19.md)
 
 ## Personal Readings
 

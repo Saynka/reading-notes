@@ -30,5 +30,7 @@
 ## Vocabulary
 
 - Authorization - is the function of specifying access rights/privileges to resources, which is related to general information security and computer security, and to access control in particular.
+
 - Role Based Access Control - refers to the idea of assigning permissions to users based on their role within an organization
+
 - Capabilities - Powers such as read, create, update or delete that are assigned to various roles in RBAC; users can have multiple capabilities and multiple roles can have access to the same capabilites

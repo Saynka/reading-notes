@@ -25,4 +25,5 @@
 ## Vocabulary
 
 - FIFO Queue - delivery and exactly-once processing: The order in which messages are sent and received is strictly preserved and a message is delivered once and remains available until a consumer processes and deletes it.
+
 - Pub/Sub - in software architecture, publish–subscribe is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers
