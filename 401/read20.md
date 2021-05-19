@@ -23,4 +23,4 @@
 
 - Rendering - Rendering or image synthesis is the process of generating a photorealistic or non-photorealistic image from a 2D or 3D model by means of a computer program. The resulting image is referred to as the render.
 - Templates - The term template, when used in the context of word processing software, refers to a sample document that has already some details in place; those can either by hand or through an automated iterative process, such as with a software assistant.
-- State - the data that defines the condition of some object or system.
+- State - the data that defines the condition of some object or system
